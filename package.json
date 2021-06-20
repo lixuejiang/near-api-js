@@ -1,7 +1,7 @@
 {
-    "name": "near-api-js",
+    "name": "xiabing-near-api-js",
     "description": "JavaScript library to interact with NEAR Protocol via RPC API",
-    "version": "0.41.0",
+    "version": "0.0.2",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/near/near-api-js.git"
@@ -14,6 +14,7 @@
         "bn.js": "5.2.0",
         "borsh": "^0.4.0",
         "bs58": "^4.0.0",
+        "crypto-js": "^4.0.0",
         "depd": "^2.0.0",
         "error-polyfill": "^0.1.2",
         "http-errors": "^1.7.2",
