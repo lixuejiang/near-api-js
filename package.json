@@ -1,12 +1,12 @@
 {
     "name": "near-api-js",
     "description": "JavaScript library to interact with NEAR Protocol via RPC API",
-    "version": "0.41.0",
+    "version": "0.42.0",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/near/near-api-js.git"
+        "url": "git+https://github.com/lixuejiang/near-api-js.git"
     },
-    "homepage": "https://github.com/near/near-api-js",
+    "homepage": "https://github.com/lixuejiang/near-api-js",
     "main": "lib/index.js",
     "browser": "lib/browser-index.js",
     "types": "lib/index.d.ts",
