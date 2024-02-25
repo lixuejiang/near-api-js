@@ -1,5 +1,5 @@
 {
-    "name": "near-api-js",
+    "name": "xiabing-near-api-js",
     "description": "JavaScript library to interact with NEAR Protocol via RPC API",
     "version": "0.42.0",
     "repository": {
